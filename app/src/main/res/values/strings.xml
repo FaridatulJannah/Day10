@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Day10</string>
+    <string name="Pajero">Pajero</string>
+    <string name="Alphard">Alphard</string>
+    <string name="Inova">Inova</string>
+    <string name="Brio">Brio</string>
+    <string name="Inside">Inside City</string>
+    <string name="Outside">Outside City</string>
+    <string name="totalday">Total Day</string>
+    <string name="Rent">Rent</string>
+</resources>
